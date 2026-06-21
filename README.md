@@ -21,7 +21,4 @@
 
 [Enemy State Machine](https://github.com/MasterChaos123/Godot-Showcase/blob/main/source/enemy-state-machine.gd)
 
-[Queue Manager]()
-
-
-
+[Queue Manager](https://github.com/MasterChaos123/Godot-Showcase/blob/main/source/queue-manager.gd)
