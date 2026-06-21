@@ -1,4 +1,4 @@
 # Godot-Showcase
 
 # Video Showcases
-https://github.com/MasterChaos123/Godot-Showcase/blob/main/media/room-generation.mp4
+<video src="media/demo.mp4" controls width="800"></video>
