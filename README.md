@@ -7,7 +7,7 @@ Source: https://github.com/MasterChaos123/Godot-Showcase/blob/main/source/dungeo
 
 https://github.com/user-attachments/assets/b5e19171-0ae6-4e8a-972e-f7798206fdb3
 
-Source:
+Source: https://github.com/MasterChaos123/Godot-Showcase/blob/main/source/enemy-generation.gd
 
 https://github.com/user-attachments/assets/d399669c-576f-4a67-a948-c3910cc945cf
 
