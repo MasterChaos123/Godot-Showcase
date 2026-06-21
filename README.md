@@ -1,6 +1,6 @@
 # Pixel Roguelike
 
-## [Source Files](https://github.com/MasterChaos123/Godot-Showcase#Source-Files)
+[Source Files](https://github.com/MasterChaos123/Godot-Showcase#Source-Files)
 
 ## Video Showcases
 
