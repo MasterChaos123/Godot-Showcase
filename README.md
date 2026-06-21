@@ -1,5 +1,9 @@
 # Pixel Roguelike
 
+## Quick Disclaimer
+This was a project that I started around May of last year. I dropped it about a month later as I just lost interest and found it more enjoyable to work with SDL and C++. With that being said, the currently provided source files might not exactly reflect/align with what is shown in the videos.
+
+
 [Source Files](https://github.com/MasterChaos123/Godot-Showcase#Source-Files)
 
 ## Video Showcases
