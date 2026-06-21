@@ -1,7 +1,7 @@
 # Godot-Showcase
 
 # Video Showcases
-Source files -> README.md#something
+Source files -> [Source Files](https://github.com/MasterChaos123/Godot-Showcase#Source-Files)
 
 https://github.com/user-attachments/assets/5c72f3b2-f9b8-448c-8d7d-d6fe89b4f23d
 
